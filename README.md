@@ -6,7 +6,7 @@ This is a simple analysis and climate change forecast made using python
 
 The models used in this project are:
 - SARIMAX
-- VAR
+- VAR (failed)
 
 The dataset for this project can be obtained from Kaggle
 
